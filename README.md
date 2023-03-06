@@ -27,7 +27,7 @@ I'm Francis, a physics and philosophy masters student at the University of Brist
 - [francislewis/ximea_experiments](https://github.com/francislewis/ximea_experiments/) - A Python library with CLI to record from XIMEA USB microscopes at set intervals, developed as part of my masters research project to aid in data collection.
 - [francislewis/chillychicken](https://github.com/francislewis/chillychicken/) - Parallel implementations of the FFT in C and analysis of speed up on HPC systems
 - [francislewis/francislewis.github.io](http://francislewis.uk/) - My personal website
-- [francislewis/adiabatic-oscillations](https://github.com/francislewis/adiabatic-oscillations) - Data analysis for an undergraduate physics experiment determining the specific heat capacity of different
+- [francislewis/adiabatic-oscillations](https://github.com/francislewis/adiabatic-oscillations) - Data analysis for an undergraduate physics experiment determining the specific heat capacity of different gases
 
 
 #### 📫 How to reach me
