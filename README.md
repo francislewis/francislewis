@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey! 👋
 
-I'm Francis, a physics and philosophy masters student at the University of Bristol. I code Python (and a bit of C) to simulate physics, analyse data and generally make my life easier! I'm currently teaching myself more machine learning alongside some other Python based projects.
+I'm Francis, a physics and philosophy graduate from the University of Bristol currently working as a Graduate Software Engineer at Vodafone UK. I code Python (and a bit of C) to simulate physics, analyse data and generally make my life easier! I'm currently teaching myself more machine learning alongside some other Python based projects.
 
 
 #### 🔭 I’m currently working on
