@@ -20,6 +20,7 @@ I'm Francis, a physics and philosophy graduate from the University of Bristol cu
 
 #### 🔭 I’m currently working on
 
+- [francislewis/house-hunting-helper](https://github.com/francislewis/house-hunting-helper/) - A tool to ease to make it easier for tenants to find a rental property
 - [francislewis/club-visual-generation](https://github.com/francislewis/club-visual-generation/) - A library to generate videos with diffusion models in an interactive manner
 
 #### 🌱 My latest projects
